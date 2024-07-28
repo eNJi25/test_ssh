@@ -4,5 +4,5 @@
 
 ```bash
 git init
-git remote add origin SSH_SEPOT
+git remote add origin URL_SSH_DEPOT
 ```
